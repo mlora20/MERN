@@ -1,0 +1,37 @@
+----INSTALL REACT VISUAL STUDIO-----
+
+- COMANDA INSTALL REACT --> npx create-react-app NOM_CARPETA
+- URL INSTALL REACT CAPITULO 1 --> https://www.udemy.com/course/crud-mern-stack/learn/lecture/36774426#overview
+
+---- EXECUTAR REACT -----
+
+-ENTAR EN LA CARPETA ON ESTA I EXECUTAR EN EL TERMINAL --> npm start
+pot donar un error amb el localhost executar per IP maquina
+-- URL EXECUTAR PAGINA REACT CAPITULO 1 --> https://www.udemy.com/course/crud-mern-stack/learn/lecture/36774426#overview
+
+
+--- PLUGING REACT VISUAL STUDIO ----
+ES7+ React/Redux/React-Native snippets
+
+
+---- ROUTAS REACT ----
+PARA EL SERVIDOR ABANS -->npm install react-router-dom
+
+---- create packjason -----
+npm init
+
+
+----- Install Express -----
+npm install express
+
+-----intallar extencion perque escolti constantment el servidor------
+npm install nodemon
+per executar-lo es nodemon server.js
+canviar ejecucion escrips -->https://protegermipc.net/2018/11/22/permitir-la-ejecucion-de-scripts-powershell-en-windows-10/
+
+----- install conexion servidor mongoose-----
+npm install mongoose
+ejecutar servidor en otro terminal--> nodemon server.js
+  
+On Your Network:  http://192.168.89.1:3000
+
